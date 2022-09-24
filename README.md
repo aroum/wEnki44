@@ -35,8 +35,9 @@ youtube video (click pic) by [@krikun98](https://github.com/krikun98)
 
 # Firmware
 
-[zmk config](https://github.com/krikun98/zmk-config/tree/wEnki44) by [@krikun98](https://github.com/krikun98)
+[wEnki44 zmk config](https://github.com/krikun98/zmk-config/tree/wEnki44) by [@krikun98](https://github.com/krikun98)
 
+You can use firmware from [Jorian840](https://github.com/krikun98/jorian840), they are fully compatible. 
 # BOM
 
 | Item                                                                   | Quantity | Remarks                              |
