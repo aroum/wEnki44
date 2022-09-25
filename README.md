@@ -31,6 +31,7 @@ youtube video (click pic) by [@krikun98](https://github.com/krikun98)
 * Wireless
 * Full body Tenting case with magnets
 * Power switch and reset button
+* NFC tag
   
 
 # Firmware
@@ -38,6 +39,7 @@ youtube video (click pic) by [@krikun98](https://github.com/krikun98)
 [wEnki44 zmk config](https://github.com/krikun98/zmk-config/tree/wEnki44) by [@krikun98](https://github.com/krikun98)
 
 You can use firmware from [Jorian840](https://github.com/krikun98/jorian840), they are fully compatible. 
+
 # BOM
 
 | Item                                                                   | Quantity | Remarks                              |
@@ -49,10 +51,15 @@ You can use firmware from [Jorian840](https://github.com/krikun98/jorian840), th
 | [702035](https://aliexpress.ru/item/1005003738158239.html)             | 2        | Or any battery size up to 21x47x8.8mm|
 | [Magnets](https://aliexpress.ru/item/1005002757445161.html)            | 50-70    | disc 7x2 mm                          |
 | [Bumpers](https://aliexpress.ru/item/4001188580018.html)               | 28       | 5x2 mm                               |
+| [NFC-tag Ntag213](https://aliexpress.ru/item/1005001731694350.html)    | 1-2      | for top case                         |
 
 [Holyiot 18010](https://aliexpress.ru/item/32951888809.html) is used as a BLE module. 
 
 All everything else is the same to [nrfMicro](https://github.com/joric/nrfmicro/wiki/Components)
 
 Interactive BOM is located ```/pcb/ibom```
+
+# NFC
+
+You can program an NFC tag to connect to a keyboard or open a KLE using the [NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) app
 
